@@ -1,12 +1,12 @@
-
-# **My datawahle  learning(我的Datawhale学习笔记)**
+# **My datawahle  learning**
 
 # 我的学习笔记
 
 记录我参加的Datawhale学习，包括学习笔记和习题解答
 
 # 在线阅读地址
-https://jimtom40395.github.io/
+
+
 # 目录
 
 #### 第51期《扩散模型从原理到实战》学习笔记
