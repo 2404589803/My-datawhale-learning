@@ -5,8 +5,7 @@
 记录我参加的Datawhale学习，包括学习笔记和习题解答
 
 # 在线阅读地址
-
-
+https://jimtom40395.github.io/My-datawhale-learning/
 # 目录
 
 #### 第51期《扩散模型从原理到实战》学习笔记
