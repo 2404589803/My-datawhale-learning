@@ -17,6 +17,6 @@ https://jimtom40395.github.io/My-datawhale-learning/
 - [第5章 微调和引导](diffusion_models_learning51/ch05.md)
 - [第6章 Stable Diffusion](diffusion_models_learning51/ch06.md)
 - [第7章 DDIM反转](diffusion_models_learning51/ch07.md)
--[第8章 音频扩散模型](diffusion_models_learning51/ch08.md)
+- [第8章 音频扩散模型](diffusion_models_learning51/ch08.md)
 
 #### 第52期《》
