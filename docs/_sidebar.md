@@ -8,4 +8,4 @@
         * [第6章 Stable Diffusion](diffusion_models_learning51/ch06.md) 
         * [第7章 DDIM反转](diffusion_models_learning51/ch07.md) 
         * [第8章 音频扩散模型](diffusion_models_learning51/ch08.md) 
-    * 第52期  
+    * 第52期  Datawhale X 深势科技 教学赛
