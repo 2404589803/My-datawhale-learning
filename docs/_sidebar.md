@@ -9,3 +9,4 @@
         * [第7章 DDIM反转](diffusion_models_learning51/ch07.md) 
         * [第8章 音频扩散模型](diffusion_models_learning51/ch08.md) 
     * 第52期  Datawhale X 深势科技 教学赛
+        * [Datawhale * DeepModeling社区  教学赛-----机器学习（ML）竞赛流程](AI4S_CUP52/ch01.md)
