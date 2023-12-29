@@ -23,3 +23,5 @@
 
 #### 第52期《Datawhale X 深势科技 教学赛》学习笔记
 - [Datawhale * DeepModeling社区  教学赛-----机器学习（ML）竞赛流程](AI4S_CUP52/ch01.md)
+
+#### 第53期 书生.浦语大模型实战营
