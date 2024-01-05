@@ -27,4 +27,4 @@
 #### 第53期 书生.浦语大模型实战营
 - [第1节 书生·浦语大模型开源开放体系](shusheng_puyu_learnning53/ch01.md)
 
-- 
+- [第2节 书生·浦语大模型开源开放体系](shusheng_puyu_learnning53/ch02.md)
