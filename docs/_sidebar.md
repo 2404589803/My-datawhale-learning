@@ -13,3 +13,4 @@
     * 第53期  书生.浦语大模型实战营
         * [第1节 书生·浦语大模型开源开放体系](shusheng_puyu_learnning53/ch01.md)
         * [第2节 轻松分钟玩转书生·浦语大模型趣味 Demo](shusheng_puyu_learnning53/ch02.md)
+        * [第3节 基于 InternLM 和 LangChain 搭建知识库](shusheng_puyu_learnning53/ch03.md)
