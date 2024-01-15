@@ -32,3 +32,5 @@
 - [第3节 基于 InternLM 和 LangChain 搭建知识库](shusheng_puyu_learnning53/ch03.md)
 
 - [第4节 XTuner 大模型单卡低成本微调实战](shusheng_puyu_learnning53/ch04.md)
+
+- [第5节 LMDeploy 的量化和部署](shusheng_puyu_learnning53/ch05.md)
